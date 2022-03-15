@@ -21,10 +21,5 @@
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23",
     "vite": "^2.8.0"
-  },
-  "prettier": {
-    "semi": true,
-    "singleQuote": true,
-    "tabWidth": 2
   }
 }
